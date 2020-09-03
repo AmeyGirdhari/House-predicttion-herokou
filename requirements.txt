@@ -1,4 +1,0 @@
-streamlit==0.65.2
-pandas==1.0.5
-numpy==1.18.5
-xgboost==1.1.1
